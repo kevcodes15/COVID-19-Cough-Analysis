@@ -25,7 +25,7 @@ Files :
 * I then segmented the cough segments from the cough audio and created an image database of mfcc spectrograms for the first segment from each audio
 
 ###### Input Cough Signal
-![input](Images/input_siamese.PNG)
+![input](input_siamese.PNG)
 ###### Segmentation Output
 ![segment](Images/segment_input_siamese.PNG)
 ###### MFCC of Sample Segment
