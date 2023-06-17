@@ -27,9 +27,9 @@ Files :
 ###### Input Cough Signal
 ![input](input_siamese.PNG)
 ###### Segmentation Output
-![segment](Images/segment_input_siamese.PNG)
+![segment](segment_input_siamese.PNG)
 ###### MFCC of Sample Segment
-![mfcc sample](Images/mfcc_sample.png)
+![mfcc sample](mfcc_sample.png)
 
 ## Step 2 : MODEL TRAINING
 
@@ -37,7 +37,7 @@ Files :
 * So essentially the siamese neural network tries to learn a similarity function for each class.
 
 ###### MODEL ARCHITECTURE
-![model architecture](Images/siamese_model_plot.png)
+![model architecture](siamese_model_plot.png)
 
 ## Step 3 : RESULTS
 
@@ -47,8 +47,8 @@ Files :
 * Recall of symptomatic = 56.33%
 
 ###### Metric Screenshots
-![accuracy](Images/accuracy_siamese.PNG)
-![recall](Images/recall_siamese.PNG)
+![accuracy](accuracy_siamese.PNG)
+![recall](recall_siamese.PNG)
 
 ## REFERENCES
 
